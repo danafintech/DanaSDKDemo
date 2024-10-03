@@ -194,6 +194,17 @@ Dana SMS Sdk is integrated with Dana SDK. If you want to use Dana SMS SDK Separa
    }
    ```
 
+### Verify Dana SMS SDK Integration
+After successful integration, you can verify the SDK integration by running your application. You will get this type of data printed on your logcat.
+
+   ```
+   CreditScoreHelper       your_package_name    I  Initializing Dana Credit Score Helper v2.1.8
+   CreditScoreHelper       your_package_name    I  SMS Analysis Done
+   CreditScoreHelper       your_package_name    I  SMS Analysis Report Sent Successfully
+   CreditScoreHelper       your_package_name    I  Count Analysis Done
+   CreditScoreHelper       your_package_name    I  Count Analysis Report Sent Successfully
+   ```
+
 ## Support
 
 For any issues or additional support, please contact our developer support team.
