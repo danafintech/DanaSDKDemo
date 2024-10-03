@@ -18,7 +18,7 @@ Ensure you have the latest version of Android Studio and your project is set up 
 
 ## Step 2: Add Required Dependencies
 
-The Liveliness SDK requires the following dependencies. Add them to your `build.gradle.kts` file
+The SDK requires the following dependencies. Add them to your `build.gradle.kts` file
 inside the `dependencies` block:
 
    ```kotlin
