@@ -6,6 +6,14 @@ Welcome to the Dana SDK Integration Guide. Follow the steps below to integrate t
 
 Ensure you have the latest version of Android Studio and your project is set up with Kotlin support.
 
+## Download the SDK
+
+You can download the Dana SDK and explore the code through the links below:
+
+- [Download Dana SDK](https://github.com/danafintech/DanaSDKDemo/releases)
+- [Dana SDK GitHub Repository](https://github.com/danafintech/DanaSDKDemo)
+
+
 ## Step 1: Add the SDK to Your Project
 
 1. Copy the `danasdk-release.aar` file into your project's `app/libs` directory.
