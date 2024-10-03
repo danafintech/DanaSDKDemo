@@ -101,12 +101,12 @@ DanaSdkHelper.launchDanaSdk(application, this)
    DanaSdkHelper.launchDanaSdk("USER_PHONE_NUMBER", this)
    ```
 
-## Step 6: ProGuard Rules
+## Step 7: ProGuard Rules
 
 If you are using ProGuard, add the necessary rules for the Dana SDK and its dependencies to
 your `proguard-rules.pro` file. Refer to the respective libraries' documentation for specific rules.
 
-## Step 7: Run Your Project
+## Step 8: Run Your Project
 
 After completing the integration steps, run your project to test the Dana SDK.
 
